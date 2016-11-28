@@ -1,0 +1,51 @@
+Tasks:
+ ☐ Modify Title Page
+ ☐ Modify Faveicon
+ ☐ Activate Bootstrap
+ ☐ Add movieapp
+
+Jamola  -  192.168.1.7:4000
+Varquez  -  192.168.1.5:4000
+Tan    -  192.168.1.10:4000
+Amil  -   192.168.1.8:4000
+Bureros  -   192.168.1.21:4000
+Escandor  -  192.168.1.11:4000
+Tumala  -  192.168.1.2:4000
+Chatto  -  192.168.1.3:4000
+Yuson  -  192.168.1.20:4000
+Binobo  -   192.168.1.9:4000
+-------------------------------
+DelaCruz-   192.168.1.17:4000
+Goubelle  -  192.168.1.14:4000
+Alfar  -  192.168.1.19:4000
+--------------------------------
+Tamayo  -  192.168.1.15:4000
+
+
+
+
+
+Setup decodeApp boilerplate
+1. Fork decodeapp_boilerplate
+2. Open git bash
+   $ cd /d
+   $ git clone   https://github.com/yourusername/decodeapp_boilerplate.git myapp
+3. Verify if directory myapp has been created
+4. Go back to git bash
+   $ cd myapp
+   $ npm install
+   $ node server
+
+
+Customize Sublime Steps
+1. Open Sublime
+2. Ctrl + Shft + P
+3. Type and Select Install Package Control
+
+4. Ctrl + Shft + P. Type and Select PCIP
+5. Search for zz File Icons
+
+6. Ctrl + Shft + P. Type and Select PCIP
+7. Search for Boxy Theme
+8. Activate Boxy Theme
+
